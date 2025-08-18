@@ -1,0 +1,152 @@
+card,type,subtype,targets,damage_type,damage_on_spawn_or_death,spawns_troops,has_ability,flies
+archer-queen,troop,support,both,single,none,false,true,false
+archers,troop,support,both,single,none,false,false,false
+archers-ev1,troop,support,both,single,none,false,false,false
+arrows,spell,small spell,both,splash,none,false,false,false
+Baby-dragon,troop,support,both,splash,none,false,false,true
+balloon,win_condition,support,ground,single,death,false,false,true 
+bandit,troop,support,ground,single,none,false,false,false
+barbarian-barrel,spell,small spell,ground,splash,none,false,false,false
+barbarian-hut,building,spawner,neither,none,none,true,false,false
+barbarians,troop,swarm,ground,single,none,false,false,false
+barbarians-ev1,troop,swarm,ground,single,none,false,false,false
+bats,troop,swarm,both,single,none,false,false,true
+bats-ev1,troop,swarm,both,single,none,false,false,true
+battle-healer,troop,support,ground,single,none,false,false,false
+battle-ram,win_condition,support,ground,single,none,true,false,false
+battle-ram-ev1,win_condition,support,ground,single,none,true,false,false
+berserker,troop,support,ground,single,none,false,false,false
+bomb-tower,building,defensive,ground,splash,none,false,false,false
+bomber,troop,support,ground,splash,none,false,false,false
+bomber-ev1,troop,support,ground,splash,none,false,false,false
+boss-bandit,troop,tank,ground,single,none,false,true,false
+bowler,troop,support,ground,splash,none,false,false,false
+cannon,building,defensive,ground,single,none,false,false,false
+cannon-cart,troop,support,ground,single,none,false,false,false
+cannon-ev1,building,defensive,ground,single,none,false,false,false
+clone,spell,special spell,both,none,none,false,false,false
+dark-prince,troop,support,ground,splash,none,false,false,false
+dart-goblin,troop,support,both,single,none,false,false,false
+dart-goblin-ev1,troop,support,both,single,none,false,false,false
+earthquake,spell,big spell,ground,splash,none,false,false,false
+electro-dragon,troop,support,both,single,none,false,false,true
+electro-dragon-ev1,troop,support,both,single,none,false,false,true
+electro-giant,troop,tank,ground,splash,none,false,false,false
+electro-spirit,troop,support,both,multiple,none,false,false,false
+electro-wizard,troop,support,both,multiple,spawn,false,false,false
+elite-barbarians,troop,support,ground,single,none,false,false,false
+elixir-collector,building,spawner,neither,none,none,false,false,false
+elixir-golem,troop,tank,ground,single,none,false,false,false
+executioner,troop,support,both,splash,none,false,false,false
+executioner-ev1,troop,support,both,splash,none,false,false,false
+fire-spirit,troop,support,ground,splash,none,false,false,false
+fireball,spell,big spell,both,splash,none,false,false,false
+firecracker,troop,support,both,splash,none,false,false,false
+firecracker-ev1,troop,support,both,splash,none,false,false,false
+fisherman,troop,support,ground,single,none,false,false,false
+flying-machine,troop,support,both,single,none,false,false,true
+freeze,spell,special spell,both,none,none,false,false,false
+furnace,building,spawner,neither,none,none,true,false,false
+giant,win_condition,tank,ground,single,none,false,false,false
+giant-skeleton,troop,tank,ground,single,death,false,false,false
+giant-snowball,spell,small spell,both,splash,none,false,false,false
+giant-snowball-ev1,spell,small spell,both,splash,none,false,false,false
+goblin-barrel,win_condition,special spell,both,none,none,true,false,false
+goblin-barrel-ev1,win_condition,special spell,both,none,none,true,false,false
+goblin-cage,building,spawner,neither,none,none,true,false,false
+goblin-cage-ev1,building,spawner,neither,none,none,true,false,false
+goblin-curse,spell,special spell,both,splash,none,true,false,false
+goblin-demolisher,troop,support,ground,splash,death,false,false,false
+goblin-drill,win_condition,spawner,ground,single,none,true,false,false
+goblin-drill-ev1,win_condition,spawner,ground,single,none,false,false,false
+goblin-gang,troop,swarm,ground,single,none,false,false,false
+goblin-giant,win_condition,tank,ground,single,none,true,false,false
+goblin-giant-ev1,win_condition,tank,ground,single,none,true,false,false
+goblin-hut,building,spawner,neither,none,none,true,false,false
+goblin-machine,troop,support,both,splash,none,false,false,false
+goblins,troop,swarm,ground,single,none,false,false,false
+goblinstein,troop,tank,both,single,none,false,true,false
+golden-knight,troop,support,ground,splash,none,false,true,false
+golem,win_condition,tank,ground,single,both,true,false,false
+graveyard,win_condition,special spell,ground,none,none,true,false,false
+guards,troop,swarm,ground,single,none,false,false,false
+heal-spirit,troop,support,ground,splash,none,false,false,false
+hog-rider,win_condition,support,ground,single,none,false,false,false
+hunter,troop,support,both,splash,none,false,false,false
+hunter-ev1,troop,support,both,splash,none,false,false,false
+ice-golem,troop,tank,ground,single,death,false,false,false
+ice-spirit,troop,support,both,splash,none,false,false,false
+ice-spirit-ev1,troop,support,both,splash,none,false,false,false
+ice-wizard,troop,support,both,splash,none,false,false,false
+inferno-dragon,troop,support,both,single,none,false,false,true
+inferno-tower,building,defensive,both,single,none,false,false,false
+knight,troop,tank,ground,single,none,false,false,false
+knight-ev1,troop,tank,ground,single,none,false,false,false
+lava-hound,win_condition,tank,ground,single,none,true,false,true
+lightning,spell,big spell,both,multiple,none,false,false,false
+little-prince,troop,support,both,single,none,false,true,false
+lumberjack,troop,support,ground,single,none,false,false,false
+lumberjack-ev1,troop,support,ground,single,none,false,false,false
+magic-archer,troop,support,both,splash,none,false,false,false
+mega-knight,troop,tank,ground,splash,spawn,false,false,false
+mega-knight-ev1,troop,tank,ground,splash,spawn,false,false,false
+mega-minion,troop,support,both,single,none,false,false,true
+mighty-miner,troop,tank,ground,single,none,false,true,false
+miner,troop,support,ground,single,none,false,false,false
+mini-pekka,troop,support,ground,single,none,false,false,false
+minion-horde,troop,swarm,both,single,none,false,false,true
+minions,troop,swarm,both,single,none,false,false,true
+mirror,spell,special spell,both,none,none,false,false,false
+monk,troop,tank,ground,single,none,false,true,false
+mortar,building,offensive,ground,splash,none,false,false,false
+mortar-ev1,building,offensive,ground,splash,none,false,false,false
+mother-witch,troop,support,ground,single,none,false,false,false
+musketeer,troop,support,both,single,none,false,false,false
+musketeer-ev1,troop,support,both,single,none,false,false,false
+night-witch,troop,support,ground,single,none,true,false,false
+pekka,troop,tank,ground,single,none,false,false,false
+pekka-ev1,troop,tank,ground,single,none,false,false,false
+phoenix,troop,support,both,splash,death,false,false,true
+poison,spell,big spell,both,splash,none,false,false,false
+prince,troop,support,ground,single,none,false,false,false
+princess,troop,support,both,splash,none,false,false,false
+rage,spell,small spell,both,none,none,false,false,false
+ram-rider,win_condition,support,ground,single,none,false,false,false
+rascals,troop,swarm,ground,single,none,false,false,false
+rocket,spell,big spell,both,splash,none,false,false,false
+royal-delivery,spell,special spell,ground,splash,spawn,true,false,false
+royal-ghost,troop,support,ground,single,none,false,false,false
+royal-giant,win_condition,tank,ground,single,none,false,false,false
+royal-giant-ev1,win_condition,tank,ground,single,none,false,false,false
+royal-hogs,troop,swarm,ground,single,none,false,false,false
+royal-recruits,troop,swarm,ground,single,none,true,false,false
+royal-recruits-ev1,troop,swarm,ground,single,none,true,false,false
+rune-giant,win_condition,tank,ground,single,none,false,false,false
+skeleton-army,troop,swarm,ground,single,none,false,false,false
+skeleton-barrel,troop,support,ground,splash,death,true,false,true
+skeleton-dragons,troop,swarm,both,splash,none,false,false,true
+skeleton-king,troop,tank,ground,single,none,false,true,false
+skeletons,troop,swarm,ground,single,none,true,false,false
+skeletons-ev1,troop,swarm,ground,single,none,true,false,false
+sparky,troop,support,ground,splash,none,false,false,false
+spear-goblins,troop,swarm,both,single,none,false,false,false
+suspicious-bush,win_condition,support,ground,none,none,true,false,false
+tesla,building,defensive,both,single,none,false,false,false
+tesla-ev1,building,defensive,both,single,none,false,false,false
+the-log,spell,small spell,ground,splash,none,false,false,false
+three-musketeers,troop,swarm,both,single,none,false,false,false
+tombstone,building,spawner,neither,none,none,true,false,false
+tornado,spell,special spell,both,splash,none,false,false,false
+valkyrie,troop,tank,ground,splash,none,false,false,false
+valkyrie-ev1,troop,tank,ground,splash,none,false,false,false
+void,spell,special spell,both,splash,none,false,false,false
+wall-breakers,troop,swarm,ground,splash,death,false,false,false 
+wall-breakers-ev1,troop,swarm,ground,splash,death,false,false,false
+witch,troop,support,ground,splash,none,true,false,false
+witch-ev1,troop,support,ground,splash,none,true,false,false
+wizard,troop,support,both,splash,none,false,false,false
+wizard-ev1,troop,support,both,splash,none,false,false,false
+x-bow,building,offensive,ground,single,none,false,false,false
+zap,spell,small spell,both,splash,none,false,false,false
+zap-ev1,spell,small spell,both,splash,none,false,false,false
+zappies,troop,swarm,both,single,none,false,false,false
