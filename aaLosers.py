@@ -105,9 +105,6 @@ itemsets_all["length"] = itemsets_all["itemsets"].apply(len)
 #   IMPORTANT: association_rules needs singleton supports available for
 #   antecedents/consequents. Do NOT drop 1-item itemsets before calling it.
 # -----------------------------
-# Keep rules whose consequent is exactly {'OUTCOME=LOSS'}
-rules = rules[rules["consequents"].apply(lambda s: s == {"OUTCOME=LOSS"})]
-
 rules = association_rules(itemsets_all, metric="confidence", min_threshold=args.min_confidence)
 
 # Keep rules whose consequent is exactly {'OUTCOME=LOSS'}
